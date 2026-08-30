@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# IDE / tool caches
+.kotlin
+.zcode
+
+# Misc
+*.hprof
+
+# Generated test data (regenerate via tools/make_test_books.py)
+/testbooks
